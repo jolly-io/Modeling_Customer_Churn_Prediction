@@ -512,7 +512,7 @@ metrics_df
 
 
 #-------------------------------------------------------------------------------------------------------------
-#-------------------------------- Print metrics CART Validation prediction sets--------------------------------------
+#-------------------------------- Print performance metrics CART Validation prediction sets--------------------------------------
 #  Printing six core metrics Accuracy, Sensitivity,  Specificity,  Precision, FDR, FOR 
 cm.cart.valid <- confusionMatrix(total_predicted_valid_cart$V1, total.real)
 
@@ -542,7 +542,7 @@ metrics_df <- data.frame(
 
 metrics_df
 
-#-----------------------------------------------other metrics CART Model-------------------------------------------#
+#-----------------------------------------------other performance metrics CART Model-------------------------------------------#
 # Calculate ROC curve and AUC for pooled training prediction
 roc.obj.cart <- roc(as.factor(total_actual_train$Churn), as.numeric(total_predicted_train_cart$V1))
 auc <- auc(roc.obj.cart)
