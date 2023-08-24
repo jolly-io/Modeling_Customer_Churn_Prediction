@@ -18,6 +18,6 @@ Based on our findings and insights, I outline our managerial recommendations for
 - Total charges have a significant negative association with churn likelihood. As total charges increase, the odds of churn decrease significantly. ZQ should emphasize the benefits and value customers receive as their total charges increase to strengthen customer loyalty and retention.
 
 
-Importantly, I would recommend introducing end-to-end metrics to measure the effectiveness of any customer retention initiative ZQ proceeds to implement, following this report. This is to ensure agility feedback and iterative improvements where necessary. In conclusion, by considering these interpretations and implementing appropriate strategies and initiatives,  ZQ can optimize payment methods, pricing, emphasize customer value propositions and improve other specified areas of its business to reduce churn and improve customer retention.  
+Importantly, I would recommend introducing end-to-end metrics to measure the effectiveness of any customer retention initiative ZQ proceeds to implement, following this report. This is to ensure agile feedback and iterative improvements where necessary. In conclusion, by considering these interpretations and implementing appropriate strategies and initiatives,  ZQ can optimize payment methods, pricing, emphasize customer value propositions and improve other specified areas of its business to reduce churn and improve customer retention.  
 
 
