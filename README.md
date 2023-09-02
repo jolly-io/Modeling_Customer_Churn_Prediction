@@ -2,7 +2,7 @@
 
 Executive Summary amd Insights:
 
-In this project, the objective was to build a classification model to predict a customer’s likelihood to churn for ZQ, a telecommunications company. Applying the data mining process to the dataset that was provided, I implemented data exploration, preprocessing and dimension reduction. I used a 10-fold cross-validation technique to assess model performance and determine among two models (Logistic Regression and Classification and Regression Trees (CART) which was the most useful model to deploy. On the basis of model performance, I decided to deploy the Logistic Regression model for the churn classification in question. Upon deployment I recorded, reported and interpreted the findings from the model to elicit key recommendations for our client, ZQ.
+In this project, the objective was to build a classification model to predict a customer’s likelihood to churn for ZQ, a telecommunications company. Applying the data mining process to the dataset that was provided, I implemented data exploration, preprocessing and dimension reduction. I used a 10-fold cross-validation technique to assess model performance and determine among two models (Logistic Regression and Classification and Regression Trees (CART) which was the most effective model to deploy. On the basis of model performance, I decided to deploy the Logistic Regression model for the churn classification problem. Upon deployment I recorded, reported and interpreted the findings from the model to elicit key recommendations for our client, ZQ.
 Based on our findings and insights, I outline our managerial recommendations for our client as follows:
 
 - Focus on addressing the needs and concerns of senior citizens to reduce their likelihood of churn.
